@@ -1,0 +1,122 @@
+body{
+  /* background-color:green  ; */
+  /* font-family: 'Montserrat', sans-serif; */
+  /* background-color: #ff4c68; */
+/* font-family: 'Ubuntu', sans-serif;  for heading*/
+}
+#navcontain
+{
+ background-color:#B5C289;
+ padding: 8% 6%;
+line-height: 1.5;
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+
+}
+.container-fluid
+{
+  padding: 3% 15%;
+  /* margin-bottom: 70px; */
+}
+.btn
+{
+  margin-top: 40px;
+  align-items: center;
+
+}
+.imgg{
+  width:auto;
+  height: auto;
+  align-items: center;
+
+
+}
+/* section-features */
+
+
+
+#features
+{
+  background-color: grey;
+  padding: 3% 15%;
+
+}
+p{
+  font-family: Ubuntu;
+  font-size: 2rem;
+  color: black;
+}
+.software
+{
+  padding: 6% 2%;
+  /* margin: 5%  3%;   */
+    text-align: center;
+}
+.h2
+{
+  font-family: "Montserrat-Bold"
+line-height: 1.5;
+font-size: Bold;
+}
+#Manufacture
+{
+  padding: 5% 2%;
+
+  text-align: center;
+background-color: #C3CBA4;
+}
+
+.h3
+{
+  font-family: "Montserrat-Bold"
+line-height: 3.5;
+font-size: Bold;
+color: black;
+}
+.imgmanu
+{
+  position: relative;
+  right: 30%;
+}
+
+#cameras
+{
+  background-color:#414436;
+  text-align:center;
+  padding: 7% 4%;
+}
+.imgcam
+{
+  /* position: absolute;
+  left: : 30%; */
+}
+#Support
+{
+  background-color: #E2E5D5;
+  padding: 7% 4%;
+   text-align: center;
+}
+#footer
+{
+  background-color: #E2E5D5;
+  margin-bottom: 0px;
+  text-align: center;
+}
+.fott
+{
+  padding: 5% 6%;
+}
+.fab
+{
+  padding: 6% 3%;
+}
+.fottp
+{
+  font-style: italic;
+  font-weight: bold;
+  font-size: 5px;
+  color: blue;
+}
